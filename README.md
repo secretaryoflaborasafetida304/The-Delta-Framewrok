@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 🌌 Delta Executor Framework
+  # 🌌 The Delta Executor Framework
   **Cross-Platform Lua Script Testing Environment**
 
   [![Version](https://img.shields.io/badge/Version-Latest-blue.svg?style=for-the-badge)]()
@@ -45,4 +45,4 @@ The **Delta Executor** framework is a highly optimized, cross-platform Lua execu
 
 ## ⚠️ Disclaimer
 
-The **Delta Executor** utility is provided strictly for educational purposes, software debugging, and executing user-generated code within isolated testing environments. The developers assume no liability for misuse, third-party policy violations, or account restrictions resulting from the use of this software. Use responsibly and at your own discretion.
+The **The Delta Executor** utility is provided strictly for educational purposes, software debugging, and executing user-generated code within isolated testing environments. The developers assume no liability for misuse, third-party policy violations, or account restrictions resulting from the use of this software. Use responsibly and at your own discretion.
